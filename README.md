@@ -1,6 +1,6 @@
 # **Hi 👋, I’m @RaphyTwin**
 - I’m interested in modding Minecraft Bedrock and Java
-- I’m currently learning HTML, CSS and JAVA
+- I’m currently learning Swift, HTML, CSS and Java
 - How to reach me: GitHub
 
 <div>
